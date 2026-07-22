@@ -6,7 +6,7 @@
 
 A modern, dark-themed, fully responsive personal portfolio website built with vanilla HTML, CSS, and JavaScript. Features glass morphism effects, floating particles, scroll animations, and a premium aesthetic designed to impress.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-00d2ff?style=for-the-badge&logo=vercel&logoColor=white)](https://dev.afaqulislam.github.io/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-00d2ff?style=for-the-badge&logo=vercel&logoColor=white)](https://afaqulislam.github.io/afaqulislam.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-ffffff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afaqulislam)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/afaqulislam708)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaqulislam)
@@ -17,7 +17,7 @@ A modern, dark-themed, fully responsive personal portfolio website built with va
 
 ## Live Preview
 
-**Portfolio:** [dev.afaqulislam.github.io](https://dev.afaqulislam.github.io/)
+**Portfolio:** [https://afaqulislam.github.io/afaqulislam.dev/](https://afaqulislam.github.io/afaqulislam.dev/)
 
 ---
 
@@ -146,7 +146,7 @@ The portfolio includes comprehensive meta tags:
 - **Primary Meta:** title, description, keywords, author, robots, theme-color
 - **Open Graph:** og:type, og:url, og:title, og:description, og:image (for Facebook/LinkedIn)
 - **Twitter Cards:** twitter:card, twitter:title, twitter:description, twitter:image
-- **Canonical URL:** `https://dev.afaqulislam.github.io/`
+- **Canonical URL:** `https://afaqulislam.github.io/afaqulislam.dev/`
 - **PWA Manifest:** site.webmanifest with theme colors and icon
 - **SVG Favicon:** gradient-styled "AUI" initials
 
