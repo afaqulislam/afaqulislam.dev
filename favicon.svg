@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d2ff"/>
+      <stop offset="100%" style="stop-color:#7b2ff7"/>
+    </linearGradient>
+  </defs>
+  <rect width="80" height="64" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="78" height="62" rx="13" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.4"/>
+  <text x="40" y="42" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="26" fill="url(#accent)">AUI</text>
+</svg>

@@ -1,0 +1,16 @@
+{
+    "name": "Afaq Ul Islam | Portfolio",
+    "short_name": "AUI Portfolio",
+    "description": "Frontend Developer & UI/UX Designer portfolio — Karachi, Pakistan",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0f",
+    "theme_color": "#00d2ff",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
